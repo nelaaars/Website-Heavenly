@@ -1,0 +1,179 @@
+/*general*/
+*,body{
+	margin-left: 140;
+	margin-right: 140;
+}
+body{
+	background-color: #1B1C1F
+}
+.title{
+	color: #8D8D8F;
+	font-size: 20px;
+	font-family: Poppins;
+}
+
+.h1{
+	color: #FFFFFF;
+	font-size: 32px;
+	font-family: Poppins;
+}
+
+.desc{
+	color: #FFFFFF;
+	font-size: 14px;
+	line-height: 28px;
+	font-family: Poppins;
+}
+.textbutton{
+	color: #FFFFFF;
+	font-size: 20px;
+	font-family: Poppins;
+}
+#secret{
+	color: #1B1C1F;
+}
+
+/*navbar*/
+nav{
+	position: relative;
+	display: inline-block;
+	top: -222px;
+}
+nav a{
+	position: relative;
+	display: inline-block;
+	text-decoration: none;
+	color : #FFFFFF;
+	font-family: Poppins;
+	padding-bottom: 16px;
+}
+nav a:hover{
+	position: relative;
+	color: #BF7EC2;
+}
+
+/*contact*/
+section#contact{
+	position: relative;
+	width: 84%;
+	margin-left: 8%;
+	margin-right: 8%;
+	margin-top: 148px;
+}
+#h1-contact{
+	position: relative;
+	display: inline-block;
+	line-height: 48px;
+	left: 0px;
+	top: -200px;
+}
+#desc-contact{
+	position: relative;
+	display: inline-block;
+	left: 0px;
+	top: -224px;
+}
+form{
+	position: relative;
+	margin-left: 90px;
+	margin-right: 90px;
+	top: -10px;
+}
+.input{
+	position: relative;
+	width: 560px;
+	height: 52px;
+	background-color: #222327;
+	border-color: #BF7EC2;
+}
+#input-text{
+	position: relative;
+	font-family: Poppins;
+	font-size: 16px;
+	color: #8D8D8F;
+	padding-left: 16px;
+}
+#label{
+	position: relative;
+	font-family: Poppins;
+	font-size: 16px;
+	color: #8D8D8F;
+	padding-left: 16px;
+	padding-top: 16px;
+}
+#type{
+	position: relative;
+	margin-left: 10px;
+	margin-top: 0px;
+}
+#button-send{
+	position: relative;
+	display: inline-block;
+	background-color: #1B1C1F;
+	color: #1B1C1F;
+	left: 0px;
+	top: 0px;
+}
+
+/*sosmed*/
+section#sosmed{
+	position: relative;
+	width: 84%;
+	margin-left: 8%;
+	margin-right: 8%;
+	margin-bottom: 32px;
+}
+.dribbble{
+  	position: relative;
+  	display: inline-block;
+	width: 153px;
+	height: 153px;
+}
+.instagram{
+  	position: relative;
+  	display: inline-block;
+	width: 153px;
+	height: 153px;
+	left: 36px;
+	top: 0px;
+}
+.skype{
+  	position: relative;
+  	display: inline-block;
+	width: 153px;
+	height: 153px;
+	left: 72px;
+	top: 0px;
+}
+.twitter{
+  	position: relative;
+  	display: inline-block;
+	width: 153px;
+	height: 153px;
+	left: 108px;
+	top: 0px;
+}
+.linkedin{
+  	position: relative;
+  	display: inline-block;
+	width: 153px;
+	height: 153px;
+	left: 144px;
+	top: 0px;
+}
+.facebook{
+  	position: relative;
+  	display: inline-block;
+	width: 153px;
+	height: 153px;
+	left: 180px;
+	top: 0px;
+}
+
+/*footer*/
+section#footer{
+	position: relative;
+	width: 84%;
+	margin-left: 8%;
+	margin-right: 8%;
+}

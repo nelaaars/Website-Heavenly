@@ -1,0 +1,326 @@
+/*general*/
+*,body{
+	margin-left: 140;
+	margin-right: 140;
+}
+body{
+	background-color: #1B1C1F
+}
+.title{
+	color: #8D8D8F;
+	font-size: 20px;
+	font-family: Poppins;
+}
+
+.h1{
+	color: #FFFFFF;
+	font-size: 32px;
+	font-family: Poppins;
+}
+
+.desc{
+	color: #FFFFFF;
+	font-size: 14px;
+	line-height: 28px;
+	font-family: Poppins;
+}
+.textbutton{
+	color: #FFFFFF;
+	font-size: 20px;
+	font-family: Poppins;
+}
+
+/*navbar*/
+nav{
+	position: relative;
+	display: inline-block;
+	top: 20px;
+}
+nav a{
+	position: relative;
+	display: inline-block;
+	text-decoration: none;
+	color : #FFFFFF;
+	font-family: Poppins;
+	padding-bottom: 16px;
+}
+nav a:hover{
+	position: relative;
+	color: #BF7EC2;
+}
+
+
+/*header*/
+section#header{
+	position: relative;
+	width: 84%;
+	margin-left: 8%;
+	margin-right: 8%;
+	margin-top: -12px;
+}
+p#intro{
+	position: relative;
+	display: inline-block;
+	left: 60px;
+	top: 76px;
+}
+p#h1-intro{
+	position: relative;
+	display: inline-block;
+	line-height: 48px;
+	left: 60px;
+	top: 40px;
+}
+p#desc-intro{
+	position: relative;
+	display: inline-block;
+	line-height: 28px;
+	left: 60px;
+	top: 20px;
+}
+p#textbutton-intro{
+	position: relative;
+	display: inline-block;
+	left: 60px;
+	top: 24px;
+}
+img#button-intro{
+	position: relative;
+	display: inline-block;
+	left: 284px;
+	top: 26px;
+}
+
+/*expert*/
+section#expert{
+	position: relative;
+	width: 84%;
+	margin-left: 8%;
+	margin-right: 8%;
+	margin-top: 130px;
+}
+.expert1{
+  	position: relative;
+  	display: inline-block;
+	width: 347px;
+	height: 80px;
+}
+.expert2{
+  	position: relative;
+  	display: inline-block;
+	width: 347px;
+	height: 80px;
+	left: 36px;
+}
+.expert3{
+  	position: relative;
+  	display: inline-block;
+	width: 347px;
+	height: 80px;
+	left: 72px;
+}
+.expert4{
+  	position: relative;
+  	display: inline-block;
+	width: 347px;
+	height: 80px;
+	top: 40px;
+}
+.expert5{
+  	position: relative;
+  	display: inline-block;
+	width: 347px;
+	height: 80px;
+	left: 36px;
+	top: 40px;
+}
+.expert6{
+  	position: relative;
+  	display: inline-block;
+	width: 347px;
+	height: 80px;
+	left: 72px;
+	top: 40px;
+}
+.expert7{
+  	position: relative;
+  	display: inline-block;
+	width: 347px;
+	height: 80px;
+	top: 80px;
+}
+.expert8{
+  	position: relative;
+  	display: inline-block;
+	width: 347px;
+	height: 80px;
+	left: 36px;
+	top: 80px;
+}
+.expert9{
+  	position: relative;
+  	display: inline-block;
+	width: 347px;
+	height: 80px;
+	left: 72px;
+	top: 80px;
+}
+
+/*porto*/
+section#porto{
+	position: relative;
+	width: 84%;
+	margin-left: 8%;
+	margin-right: 8%;
+	margin-top: 210px;
+}
+.porto1{
+  	position: relative;
+  	display: inline-block;
+	width: 733px;
+	height: 560px;
+}
+.porto2{
+  	position: relative;
+  	display: inline-block;
+	width: 347px;
+	height: 260px;
+	left: 40px;
+	top: -300px;
+}
+.porto3{
+  	position: relative;
+  	display: inline-block;
+	width: 347px;
+	height: 260px;
+	left: 777px;
+	top: -264px;
+}
+.porto4{
+  	position: relative;
+  	display: inline-block;
+	width: 347px;
+	height: 260px;
+	left: -351px;
+	top: 40px;
+}
+.porto5{
+  	position: relative;
+  	display: inline-block;
+	width: 347px;
+	height: 260px;
+	left: -316px;
+	top: 40px;
+}
+.portomore{
+  	position: relative;
+  	display: inline-block;
+	width: 347px;
+	height: 260px;
+	left: 777px;
+	top: -224px;
+}
+
+/*contact*/
+section#contact{
+	position: relative;
+	width: 84%;
+	margin-left: 8%;
+	margin-right: 8%;
+	margin-top: -100px;
+}
+#h1-contact{
+	position: relative;
+	display: inline-block;
+	line-height: 48px;
+	left: 0px;
+	top: -200px;
+}
+#desc-contact{
+	position: relative;
+	display: inline-block;
+	left: 0px;
+	top: -224px;
+}
+form{
+	position: relative;
+	margin-left: 90px;
+	margin-right: 90px;
+	top: -10px;
+}
+.input{
+	position: relative;
+	width: 560px;
+	height: 52px;
+	background-color: #222327;
+	border-color: #BF7EC2;
+}
+#input-text{
+	position: relative;
+	font-family: Poppins;
+	font-size: 16px;
+	color: #8D8D8F;
+	padding-left: 16px;
+}
+#label{
+	position: relative;
+	font-family: Poppins;
+	font-size: 16px;
+	color: #8D8D8F;
+	padding-left: 16px;
+	padding-top: 16px;
+}
+#type{
+	position: relative;
+	margin-left: 10px;
+	margin-top: 0px;
+}
+
+/*testi*/
+section#testi{
+	position: relative;
+	width: 84%;
+	margin-left: 8%;
+	margin-right: 8%;
+	margin-top: 100px;
+	margin-bottom: 32px;
+}
+div.testimoni{
+	position: relative;
+  	display: inline-block;
+  	background-color: #222327;
+	width: 733px;
+	height: 304px;
+	left: 0px;
+	top: 12px;
+}
+p#h1-testi{
+	position: relative;
+  	display: inline-block;
+	top: -100px;
+}
+.profile{
+	position: relative;
+  	display: inline-block;
+	top: 40px;
+}
+p#desc-testi{
+	position: relative;
+	line-height: 28px;
+	top: 48px;
+}
+p#textbutton-testi{
+	position: relative;
+	color: #8D8D8F;
+	font-size: 18px;
+	font-family: Poppins;
+	top: 48px;
+}
+
+/*footer*/
+section#footer{
+	position: relative;
+	width: 84%;
+	margin-left: 8%;
+	margin-right: 8%;
+}

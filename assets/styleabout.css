@@ -1,0 +1,198 @@
+/*general*/
+*,body{
+	margin-left: 140;
+	margin-right: 140;
+}
+body{
+	background-color: #1B1C1F
+}
+.title{
+	color: #8D8D8F;
+	font-size: 20px;
+	font-family: Poppins;
+}
+
+.h1{
+	color: #FFFFFF;
+	font-size: 32px;
+	font-family: Poppins;
+}
+
+.desc{
+	color: #FFFFFF;
+	font-size: 14px;
+	font-family: Poppins;
+}
+.textbutton{
+	color: #FFFFFF;
+	font-size: 20px;
+	font-family: Poppins;
+}
+
+/*navbar*/
+nav{
+	position: relative;
+	display: inline-block;
+	top: -204px;
+}
+nav a{
+	position: relative;
+	display: inline-block;
+	text-decoration: none;
+	color : #FFFFFF;
+	font-family: Poppins;
+	padding-bottom: 16px;
+}
+nav a:hover{
+	position: relative;
+	color: #BF7EC2;
+}
+
+/*stories*/
+section#stories{
+	position: relative;
+	width: 84%;
+	margin-left: 8%;
+	margin-right: 8%;
+	margin-top: 148px;
+}
+.stories1{
+	position: relative;
+	display: inline-block;
+	left: 0px;
+	top: 0px;
+}
+.stories2{
+	position: relative;
+	display: inline-block;
+	left: 40px;
+	top: 8px;
+}
+p#h1-stories{
+	position: relative;
+	display: inline-block;
+	line-height: 48px;
+	left: 40px;
+	top: 0px;
+}
+p#desc-stories{
+	position: relative;
+	display: inline-block;
+	line-height: 28px;
+	left: 40px;
+	top: -24px;
+}
+
+/*teams*/
+section#teams{
+	position: relative;
+	width: 84%;
+	margin-left: 8%;
+	margin-right: 8%;
+	margin-top: 130px;
+}
+.name{
+	color: #FFFFFF;
+	font-size: 18px;
+	font-family: Poppins;
+}
+.role{
+	color: #FFFFFF;
+	font-size: 14px;
+	font-family: Poppins;
+}
+.teams1{
+	position: relative;
+	display: inline-block;
+	left: 0px;
+	top: 12px;
+}
+.teams2{
+	position: relative;
+	display: inline-block;
+	left: 29px;
+	top: 12px;
+}
+.teams3{
+	position: relative;
+	display: inline-block;
+	left: 58px;
+	top: 12px;
+}
+.teams4{
+	position: relative;
+	display: inline-block;
+	left: 87px;
+	top: 12px;
+}
+.teams5{
+	position: relative;
+	display: inline-block;
+	left: 0px;
+	top: 20px;
+}
+.teams6{
+	position: relative;
+	display: inline-block;
+	left: 29px;
+	top: 20px;
+}
+.teams7{
+	position: relative;
+	display: inline-block;
+	left: 58px;
+	top: 20px;
+}
+.teams8{
+	position: relative;
+	display: inline-block;
+	left: 87px;
+	top: 20px;
+}
+
+/*faq*/
+section#faq{
+	position: relative;
+	width: 84%;
+	margin-left: 8%;
+	margin-right: 8%;
+	margin-top: 130px;
+	margin-bottom: 32px;
+}
+div.faq1{
+	position: relative;
+  	display: inline-block;
+  	background-color: #222327;
+	width: 540px;
+	height: 228px;
+	left: 0px;
+	top: 12px;
+}
+div.faq2{
+	position: relative;
+  	display: inline-block;
+  	background-color: #222327;
+	width: 540px;
+	height: 228px;
+	left: 32px;
+	top: 12px;
+}
+p#question{
+	position: relative;
+	top: 12px;
+	left: 32px;
+}
+p#answer{
+	position: relative;
+	line-height: 28px;
+	top: 12px;
+	left: 32px;
+}
+
+/*footer*/
+section#footer{
+	position: relative;
+	width: 84%;
+	margin-left: 8%;
+	margin-right: 8%;
+}
